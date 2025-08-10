@@ -1,11 +1,11 @@
 
 
 .text-chocolate {
-  color: #7B3F00 t; 
+  color: #7B3F00 !important; 
 }
 
 .custom-hover:hover {
-  color: #A0522D ; 
+  color: #A0522D !important; 
 }
 
 .navbar-brand:hover {

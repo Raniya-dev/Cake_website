@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Cake_website/static/css/main.e87930e1.css",
+    "main.js": "/Cake_website/static/js/main.2b2443e5.js",
+    "static/js/453.1931a054.chunk.js": "/Cake_website/static/js/453.1931a054.chunk.js",
+    "static/media/cust_fav_3.jpg": "/Cake_website/static/media/cust_fav_3.82006eb28d12b156ec45.jpg",
+    "static/media/abt_u.jpg": "/Cake_website/static/media/abt_u.15407ae21935b817a4cb.jpg",
+    "static/media/sqr12.jpg": "/Cake_website/static/media/sqr12.a3d673670ea8dfccd583.jpg",
+    "static/media/cust_fav_5.jpg": "/Cake_website/static/media/cust_fav_5.24406ea1facfad932a8c.jpg",
+    "static/media/home12.png": "/Cake_website/static/media/home12.cc7591601cce73a562f9.png",
+    "static/media/cust_fav_2.jpg": "/Cake_website/static/media/cust_fav_2.082e9c9ae024d49572e0.jpg",
+    "static/media/new_ar_3.jpg": "/Cake_website/static/media/new_ar_3.d6cd68501ce425a8871d.jpg",
+    "static/media/cust_fav_6.jpg": "/Cake_website/static/media/cust_fav_6.e9cde9f7408c86c28b52.jpg",
+    "static/media/homeicon.jpg": "/Cake_website/static/media/homeicon.67f4bc8356a6718cda32.jpg",
+    "static/media/new_ar_2.png": "/Cake_website/static/media/new_ar_2.b263120175b89a2fc83d.png",
+    "static/media/cust_fav_1.jpg": "/Cake_website/static/media/cust_fav_1.1f0604d4612c878624bd.jpg",
+    "static/media/cust_fav_4.jpg": "/Cake_website/static/media/cust_fav_4.e0e64dc4e096ac99d5ce.jpg",
+    "index.html": "/Cake_website/index.html",
+    "main.e87930e1.css.map": "/Cake_website/static/css/main.e87930e1.css.map",
+    "main.2b2443e5.js.map": "/Cake_website/static/js/main.2b2443e5.js.map",
+    "453.1931a054.chunk.js.map": "/Cake_website/static/js/453.1931a054.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87930e1.css",
+    "static/js/main.2b2443e5.js"
+  ]
+}
